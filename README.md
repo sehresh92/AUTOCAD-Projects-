@@ -2,11 +2,9 @@
 
 Hi, I am Sehresh Mehboob.
 
-I am going to show you (step by step) my 2D and 3D AUTOCAD Projects in the form of screenshots. 
+I am going to show you (step by step) my 2D and 3D AUTOCAD Project in the form of screenshots. 
 
-My AUTOCAD project name: "2D and 3D Big House Project"
-
-2D structure of Big House having 
+My AUTOCAD project name: "2D and 3D Big House Project" 
 
 2D structure of Big House in AUTOCAD link:
 
